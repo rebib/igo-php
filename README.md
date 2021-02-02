@@ -9,7 +9,7 @@
 composer で以下のコマンドを実行します。
 
 ```shell
-$ composer logue/igo-php
+$ composer require rebib/igo-php
 ```
 
 ## 3. 辞書の作成方法
